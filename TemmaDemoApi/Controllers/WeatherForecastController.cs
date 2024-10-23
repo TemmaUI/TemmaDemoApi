@@ -2,6 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TemmaDemoApi.Controllers
 {
+    /// <summary>
+    /// This is a super dummy controller.
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
